@@ -1,0 +1,21 @@
+@media screen and (max-width: 720px){
+
+    .service-main-btm{
+        padding: 0 30px;
+    }
+    .about-text h1 {
+        font-size: 26px;
+    }
+    #about {
+        width: 100%;
+        padding: 0px 0;
+        padding-bottom: 50px;
+        background: #FFEDF0;
+    }
+    .about-text {
+        padding-right: 0px;
+    }
+    .title {
+        margin-bottom: 40px;
+    }
+}
