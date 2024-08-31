@@ -70,6 +70,9 @@ body{
 .service-main{
     padding: 0 30px;
 }
+.service-main h2{
+    margin-bottom: 20px;
+}
 .service-main ul li{
     list-style: disc;
     margin-bottom: 10px;
